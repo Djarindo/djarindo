@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+##⚡ Fun fact: I start to use GitHub!!!
+##🌱 I’m currently learning C/C++
+
+##See you in a bit.
 <!--
 **Djarindo/djarindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
